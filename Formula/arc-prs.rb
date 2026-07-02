@@ -3,8 +3,8 @@ class ArcPrs < Formula
 
   desc "Local CLI for managing stacked pull requests on GitHub"
   homepage "https://github.com/yash-srivastava19/arc-stack"
-  url "https://github.com/yash-srivastava19/arc-stack/archive/refs/tags/v0.6.4.tar.gz"
-  sha256 "254b574e68014e33c57ec72841e96d5816b9beee458097492d02a537ef13db11"
+  url "https://github.com/yash-srivastava19/arc-stack/archive/refs/tags/v0.6.5.tar.gz"
+  sha256 "bf70f8519d46d30a07d329045c7e37ddc41a88e606a4704ca2a3cfe6db9f90f8"
   license "MIT"
 
   depends_on "python@3.12"
